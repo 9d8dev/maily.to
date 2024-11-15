@@ -475,12 +475,13 @@ export class Maily {
           ) : null}
           <Container
             style={{
-              // maxWidth: '600px',
-              minWidth: '300px',
+              maxWidth: 'none',
+              minWidth: 'none',
               width: '100%',
               marginLeft: 'auto',
               marginRight: 'auto',
-              padding: '0.5rem',
+              // padding: '0.5rem',
+              padding: '0',
             }}
           >
             {jsxNodes}
