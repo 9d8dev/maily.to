@@ -475,7 +475,7 @@ export class Maily {
           ) : null}
           <Container
             style={{
-              maxWidth: '600px',
+              // maxWidth: '600px',
               minWidth: '300px',
               width: '100%',
               marginLeft: 'auto',
