@@ -1,7 +1,7 @@
 {
-  "name": "@maily-to/core",
+  "name": "@9d8/maily-core",
   "version": "0.0.15",
-  "description": "Powerful editor for creating beautiful, pre-designed, mobile-ready emails.",
+  "description": "A fork of a Powerful editor for creating beautiful, pre-designed, mobile-ready emails.",
   "private": false,
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -28,10 +28,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arikchakma/maily.to.git",
+    "url": "git+https://github.com/9d8dev/maily.to.git",
     "directory": "packages/core"
   },
-  "author": "Arik Chakma <arikchangma@gmail.com>",
+  "author": "9d8 <9d8dev@gmail.com>",
   "keywords": [
     "tiptap",
     "wysiwyg",
